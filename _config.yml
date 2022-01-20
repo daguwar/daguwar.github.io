@@ -28,7 +28,7 @@ twitter_username: dwarhammar
 github_username:  daguwar
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
